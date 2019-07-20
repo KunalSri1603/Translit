@@ -164,7 +164,9 @@
             android:layout_margin="4dp"
             android:layout_weight="0.85"
             android:background="@drawable/edit_text_box"
-            android:padding="4dp" />
+            android:padding="4dp"
+            android:textColor="@android:color/black"
+            android:visibility="visible" />
 
         <ImageView
             android:id="@+id/image_send"
